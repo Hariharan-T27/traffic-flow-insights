@@ -68,7 +68,7 @@ Traffic-Pattern-Analysis/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Traffic-Pattern-Analysis.git
+git clone https://github.com/Hariharan-T27/traffic-flow-insights.git
 cd Traffic-Pattern-Analysis
 
 ```
